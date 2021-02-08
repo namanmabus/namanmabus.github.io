@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-09-25-Sensor-Modality-Fusion-with-CNNs
 excerpt: "End-to-End Learning based Sensor Fusion for Autonomous Navigation in an indoor environment."
 date: 2017-09-25
-venue: "ECCV 2020"
+venue: "IROS 2017"
 venuetype: "conference"
 paperauthors: 'N. Patel, A. Choromanska, P. Krishnamurthy, F. Khorrami'
 thumbnail: "modality_fusion_framework.png"
