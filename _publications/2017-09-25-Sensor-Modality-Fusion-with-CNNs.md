@@ -20,17 +20,12 @@ We present a novel end-to-end learning framework to enable ground vehicles to au
 
 ### Bibtex
 
-@inproceedings{PatelCKK17,
-  author    = {Naman Patel and
-               Anna Choromanska and
-               Prashanth Krishnamurthy and
-               Farshad Khorrami},
-  title     = {Sensor modality fusion with CNNs for {UGV} autonomous driving in indoor
-               environments},
-  booktitle = {Proceedings of the {IEEE/RSJ} International Conference on Intelligent Robots and
-               Systems, {IROS}}
-  address	= {Vancouver, BC, Canada},
-  month		= {September},
-  pages     = {1531--1536},
-  year      = {2017},
-}
+    @inproceedings{PatelCKK17,
+        title={Sensor modality fusion with CNNs for {UGV} autonomous driving in indoor environments},
+        author={Naman Patel and Anna Choromanska and Prashanth Krishnamurthy and Farshad Khorrami},
+        booktitle={Proceedings of the {IEEE/RSJ} International Conference on Intelligent Robots and Systems, {IROS}},
+        address	= {Vancouver, BC, Canada},
+        month		= {September},
+        pages   = {1531--1536},
+        year    = {2017},
+    }
