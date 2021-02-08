@@ -9,7 +9,15 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 {% include base_path %}
 
-
+#Sensor Fusion
 {% for post in site.publications reversed %}
   {% include archive-single-paper.html %}
 {% endfor %}
+
+#Semantic SLAM
+
+#Anomaly Monitoring for Perception-based CPS
+
+#Train-time Attacks for Perception-based CPS
+
+#Test-time Attacks for Perception-based CPS
