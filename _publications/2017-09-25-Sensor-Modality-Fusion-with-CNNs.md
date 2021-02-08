@@ -25,7 +25,7 @@ We present a novel end-to-end learning framework to enable ground vehicles to au
         author={Naman Patel and Anna Choromanska and Prashanth Krishnamurthy and Farshad Khorrami},
         booktitle={Proceedings of the {IEEE/RSJ} International Conference on Intelligent Robots and Systems, {IROS}},
         address	= {Vancouver, BC, Canada},
-        month		= {September},
+        month	= {September},
         pages   = {1531--1536},
         year    = {2017},
     }
