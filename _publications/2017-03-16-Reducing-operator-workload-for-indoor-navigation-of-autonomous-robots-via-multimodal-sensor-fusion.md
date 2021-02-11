@@ -3,7 +3,7 @@ title: "Reducing operator workload for indoor navigation of autonomous robots vi
 collection: publications
 permalink: /publication/2017-03-16-Reducing-operator-workload-for-indoor-navigation-of-autonomous-robots-via-multimodal-sensor-fusion
 excerpt: "Framework for operator assistance in indoor navigation and map building wherein the ground vehicle learns to navigate by imitating the operator commands while training."
-date: 2017-03
+date: 2017-03-16
 venue: "Companion HRI 2017"
 venuetype: "workshop"
 paperauthors: 'N. Patel, P. Krishnamurthy, Y.Fang, F. Khorrami'
