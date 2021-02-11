@@ -18,7 +18,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-
+    <p>
     <div class="archive__item-paper">
       <img class="archive__item-thumbnail" src=
         {% if teaser contains "://" %}
@@ -26,7 +26,7 @@
         {% else %}
           "{{ teaser | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
-        alt="{{ title }}" class="align-left" />
+           alt="{{ title }}" class="align-left" /></p>
       <p style="text-align: justify;">
       <b>
       {% if post.link %}
