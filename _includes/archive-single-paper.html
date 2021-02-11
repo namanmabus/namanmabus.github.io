@@ -41,7 +41,7 @@
       {% if post.award %}<b style="color:red"> ({{ post.award }})</b>{% endif %}
       - {{ post.date | date: "%B, %Y" }}.
       <span class="archive__item-excerpt">
-        {{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
+        {{ post.excerpt | markdownify  }}
       </span>
       </p>
       </article>
