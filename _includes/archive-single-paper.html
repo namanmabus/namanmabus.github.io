@@ -18,7 +18,6 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <p>
     <div class="archive__item-paper">
       <img class="archive__item-thumbnail" src=
         {% if teaser contains "://" %}
@@ -27,8 +26,6 @@
           "{{ teaser | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
            alt="{{ title }}" class="align-left" />
-     </p>
-     <p>
       <b>
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -44,6 +41,7 @@
         {{ post.excerpt | markdownify  | remove: "<p>" | remove: "</p>"}}
       </span>
       </div>
-    </p>
       </article>
+    <p>
+    </p>
 </div>
