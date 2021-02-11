@@ -17,19 +17,15 @@ Links: [Companion HRI 2017 page](https://dl.acm.org/doi/10.1145/3029798.3038368)
 We present a novel framework for operator assistance in indoor navigation and map building wherein the ground vehicle learns to navigate by imitating the operator commands while training. Our framework reduces the workload on the human operator simplifying the process of human robot interaction. An end to end architecture is presented which takes inputs from camera and LIDAR and outputs the steering angle for the ground vehicle to navigate through an indoor environment. The presented framework includes static obstacle avoidance during navigation and map building. The architecture is made more reliable by an on-line mechanism in which the robot introspects its output and decides whether to rely on its output or transfer vehicle control to a human pilot. The end to end trained framework implicitly learns to avoid obstacles. We show that our framework works under various cases where other frameworks fail.
 
 ### Bibtex
-  @inproceedings{PatelKFK17,
-  author    = {Naman Patel and
+    @inproceedings{PatelKFK17,
+    author    = {Naman Patel and
                Prashanth Krishnamurthy and
                 Yi Fang and
                 Farshad Khorrami},
-  editor    = {Bilge Mutlu and
-               Manfred Tscheligi and
-               Astrid Weiss and
-               James E. Young},
-  title     = {Reducing Operator Workload for Indoor Navigation of Autonomous Robots via Multimodal Sensor Fusion},
-  booktitle = {Companion of the 2017 {ACM/IEEE} International Conference on Human-Robot Interaction, {HRI}},
-  address   = {Vienna, Austria},
-  month     = {March},
-  pages     = {253--254},
-  year      = {2017},
-  }
+    title     = {Reducing Operator Workload for Indoor Navigation of Autonomous Robots via Multimodal Sensor Fusion},
+    booktitle = {Companion of the 2017 {ACM/IEEE} International Conference on Human-Robot Interaction, {HRI}},
+    address   = {Vienna, Austria},
+    month     = {March},
+    pages     = {253--254},
+    year      = {2017},
+    }
