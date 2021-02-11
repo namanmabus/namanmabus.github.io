@@ -7,7 +7,7 @@ date: 2017-03-16
 venue: "Companion HRI 2017"
 venuetype: "workshop"
 paperauthors: 'N. Patel, P. Krishnamurthy, Y.Fang, F. Khorrami'
-thumbnail: "operator_workload_architecture.png"
+thumbnail: "operator_workload_architecture_200.png"
 ---
 
 Links: [Companion HRI 2017 page](https://dl.acm.org/doi/10.1145/3029798.3038368), [Companion HRI 2017 pdf](https://dl.acm.org/doi/pdf/10.1145/3029798.3038368), [bibtex](#bibtex)
