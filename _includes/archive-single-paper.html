@@ -17,8 +17,8 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
+  <p>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <p>
     <div class="archive__item-paper">
       <img class="archive__item-thumbnail" src=
         {% if teaser contains "://" %}
@@ -42,6 +42,6 @@
       <span class="archive__item-excerpt">
         {{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
       </span>
-      </p>
       </article>
+      </p>
 </div>
