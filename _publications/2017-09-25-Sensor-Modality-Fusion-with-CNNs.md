@@ -7,7 +7,7 @@ date: 2017-09-25
 venue: "IROS 2017"
 venuetype: "conference"
 paperauthors: 'N. Patel, A. Choromanska, P. Krishnamurthy, F. Khorrami'
-thumbnail: "modality_fusion_150.gif"
+thumbnail: "modality_fusion_200.gif"
 ---
 
 Links: [IROS 2017 page](https://ieeexplore.ieee.org/abstract/document/8205958), [IROS 2017 pdf](http://www.columbia.edu/~aec2163/NonFlash/Papers/SMF_CNN.pdf), [bibtex](#bibtex)
