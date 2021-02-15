@@ -3,7 +3,7 @@ title: "Semantic Segmentation Guided SLAM Using Vision and LIDAR"
 collection: publications
 permalink: /publication/2018-16-20-Semantic-Segmentation-Guided-Using-Vision-LIDAR
 excerpt: "Framework for incorporating semantic information in a SLAM system to alleviate drifts caused by translation and rotation errors."
-date: 2017-06-20
+date: 2018-16-20
 venue: "ISR 2018"
 venuetype: "conference"
 paperauthors: 'N. Patel, P. Krishnamurthy, F. Khorrami'
