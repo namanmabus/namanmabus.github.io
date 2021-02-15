@@ -20,13 +20,12 @@ This paper presents a novel framework for incorporating semantic information in 
 
 
 ### Bibtex
-
-  @inproceedings{patel2018semantic,
-    title={Semantic segmentation guided SLAM using Vision and LIDAR},
-    author={Patel, Naman and Krishnamurthy, Prashanth and Khorrami, Farshad},
-    booktitle={Proceedings of the International Symposium on Robotics},
-    pages={352--358},
-    address = {Munich, Germany},
-    month = {June},
-    year={2018},
-  }
+    @inproceedings{patel2018semantic,
+      title={Semantic segmentation guided SLAM using Vision and LIDAR},
+      author={Patel, Naman and Krishnamurthy, Prashanth and Khorrami, Farshad},
+      booktitle={Proceedings of the International Symposium on Robotics},
+      pages={352--358},
+      address = {Munich, Germany},
+      month = {June},
+      year={2018},
+    }
