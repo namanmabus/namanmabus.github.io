@@ -18,6 +18,10 @@ Links: [IROS 2017 page](https://ieeexplore.ieee.org/abstract/document/8205958), 
 
 We present a novel end-to-end learning framework to enable ground vehicles to autonomously navigate unknown environments by fusing raw pixels from cameras and depth measurements from a LiDAR. A deep neural network architecture is introduced to effectively perform modality fusion and reliably predict steering commands even in the presence of sensor failures. The proposed network is trained on our own dataset, from LiDAR and a camera mounted on a UGV taken in an indoor corridor environment. Comprehensive experimental evaluation to demonstrate the robustness of our network architecture is performed to show that the proposed deep learning neural network is able to autonomously navigate in the corridor environment. Furthermore, we demonstrate that the fusion of the camera and LiDAR modalities provides further benefits beyond robustness to sensor failures. Specifically, the multimodal fused system shows a potential to navigate around static and dynamic obstacles and to handle changes in environment geometry without being trained for these tasks.
 
+### Video
+
+{% include youtube_embed.html id="3DGifIBux1s" %}
+
 ### Bibtex
 
     @inproceedings{PatelCKK17,
