@@ -16,7 +16,7 @@ Links: [RAS page](https://www.sciencedirect.com/science/article/pii/S09218890183
 
 In this paper, we introduce a novel methodology for fusing sensors and improving robustness to sensor failures in end-to-end learning based autonomous navigation of ground vehicles in unknown environments. We propose the first learning based camera–LiDAR fusion methodology for autonomous in-door navigation. Specifically, we develop a multimodal end-to-end learning system, which maps raw depths and pixels from LiDAR and camera, respectively, to the steering commands. A novel gating based dropout regularization technique is introduced which effectively performs multimodal sensor fusion and reliably predicts steering commands even in the presence of various sensor failures. The robustness of our network architecture is demonstrated by experimentally evaluating its ability to autonomously navigate in the indoor corridor environment. Specifically, we show through various empirical results that our framework is robust to sensor failures, partial image occlusions, modifications of the camera image intensity, and the presence of noise in the camera or LiDAR range images. Furthermore, we show that some aspects of obstacle avoidance are implicitly learned (while not being specifically trained for it); these learned navigation capabilities are shown in ground vehicle navigation around static and dynamic obstacles.
 
-### Sensor Modality Fusion Architecture
+### Sensor Modality Fusion Framework
 
 ![Modality fusion framework overview](/images/modality_fusion_framework.png)
 
