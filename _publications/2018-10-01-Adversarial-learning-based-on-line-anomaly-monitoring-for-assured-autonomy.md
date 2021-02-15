@@ -12,6 +12,10 @@ thumbnail: "anomaly_monitor_framework.gif"
 
 Links: [IROS 2018 page](https://ieeexplore.ieee.org/abstract/document/8593375), [IROS 2018 pdf](https://arxiv.org/pdf/1811.04539.pdf), [bibtex](#bibtex)
 
+### Abstract
+
+The paper proposes an on-line monitoring framework for continuous real-time safety/security in learning-based control systems (specifically application to a unmanned ground vehicle). We monitor validity of mappings from sensor inputs to actuator commands, controller-focused anomaly detection (CFAM), and from actuator commands to sensor inputs, system-focused anomaly detection (SFAM). CFAM is an image conditioned energy based generative adversarial network (EBGAN) in which the energy based discriminator distinguishes between proper and anomalous actuator commands. SFAM is based on an action condition video prediction framework to detect anomalies between predicted and observed temporal evolution of sensor data. We demonstrate the effectiveness of the approach on our autonomous ground vehicle for indoor environments and on Udacity dataset for outdoor environments.
+
 ### Anomaly Monitoring Framework
 ![Anomaly Monitoring Framework](/images/cfam_sfam_system_diagram.png)
 
@@ -20,10 +24,6 @@ Links: [IROS 2018 page](https://ieeexplore.ieee.org/abstract/document/8593375), 
 
 ### SFAM
 ![SFAM Framework](/images/SFAM_framework.png)
-
-### Abstract
-
-The paper proposes an on-line monitoring framework for continuous real-time safety/security in learning-based control systems (specifically application to a unmanned ground vehicle). We monitor validity of mappings from sensor inputs to actuator commands, controller-focused anomaly detection (CFAM), and from actuator commands to sensor inputs, system-focused anomaly detection (SFAM). CFAM is an image conditioned energy based generative adversarial network (EBGAN) in which the energy based discriminator distinguishes between proper and anomalous actuator commands. SFAM is based on an action condition video prediction framework to detect anomalies between predicted and observed temporal evolution of sensor data. We demonstrate the effectiveness of the approach on our autonomous ground vehicle for indoor environments and on Udacity dataset for outdoor environments.
 
 ### Video
 
