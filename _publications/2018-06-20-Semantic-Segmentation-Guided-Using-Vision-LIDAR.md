@@ -18,6 +18,9 @@ Links: [ISR 2018 page](https://ieeexplore.ieee.org/document/8470619), [bibtex](#
 
 This paper presents a novel framework for incorporating semantic information in a Simultaneous Localization and Mapping (SLAM) framework based on LIDAR and camera to improve navigation accuracy and alleviate drifts caused by translation and rotation errors. Specifically, an unmanned ground vehicle (UGV) equipped with a camera and LIDAR, operating in an indoor environment is considered. The proposed method uses features extracted from a camera and its correspondences in the LIDAR depth map to obtain the pose relative to a keyframe which is refined by semantic features obtained from a deep neural network. Additionally, each point in the map is associated with a semantic label to perform semantically guided local and global pose optimization. Since semantically correlated features can be expected to have higher likelihood of correct data association, the proposed coupling of semantic labeling and SLAM provides better robustness and accuracy. We demonstrate our approach using an unmanned ground vehicle (UGV) operating in an indoor environment equipped with a camera and a LIDAR.
 
+### Video
+
+{% include youtube_embed.html id="1RKrsp3oFaM" %}  
 
 ### Bibtex
     @inproceedings{patel2018semantic,
