@@ -21,7 +21,7 @@ This paper addresses two reliability-based security threats and mitigations for 
 
 ### Bibtex
 
-@inproceedings{AmrouchKPHKK17,
+    @inproceedings{AmrouchKPHKK17,
     author    = {Hussam Amrouch and
                  Prashanth Krishnamurthy and
                  Naman Patel and
@@ -35,4 +35,4 @@ This paper addresses two reliability-based security threats and mitigations for 
     month   = {October},
     pages     = {17:1--17:10},
     year      = {2017},
-}
+    }
