@@ -10,7 +10,7 @@ paperauthors: 'N. Patel, A. N. Saridena, A. Choromanska, P. Krishnamurthy, F. Kh
 thumbnail: "anomaly_monitor_framework.gif"
 ---
 
-Links: [IROS 2018 page](https://ieeexplore.ieee.org/abstract/document/8205958), [IROS 2017 pdf](http://www.columbia.edu/~aec2163/NonFlash/Papers/SMF_CNN.pdf), [bibtex](#bibtex)
+Links: [IROS 2018 page](https://ieeexplore.ieee.org/abstract/document/8593375), [IROS 2018 pdf](https://arxiv.org/pdf/1811.04539.pdf), [bibtex](#bibtex)
 
 ### Anomaly Monitoring Framework
 ![Anomaly Monitoring Framework](/images/cfam_sfam_system_diagram.png)
