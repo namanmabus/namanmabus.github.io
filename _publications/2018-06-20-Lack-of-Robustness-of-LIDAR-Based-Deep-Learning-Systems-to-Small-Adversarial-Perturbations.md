@@ -23,7 +23,7 @@ In this paper, we investigate the robustness of LIDAR-based autonomous navigatio
 
 ### Bibtex
 
-    @inproceedings{PatelCKK17,
+    @inproceedings{PatelKKGK18,
       author    = {Naman Patel and
                   Kang Liu and
                   Prashanth Krishnamurthy and
