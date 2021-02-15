@@ -39,7 +39,7 @@ Various learning-based approaches have been proposed recently for robot control 
                  Farshad Khorrami},
       title     = {Learning-Based Real-Time Process-Aware Anomaly Monitoring for Assured
                Autonomy},
-      journal   = {{IEEE} Transactions on Intelligent Vehicles},
+      journal   = {IEEE Transactions on Intelligent Vehicles},
       volume    = {5},
       number    = {4},
       pages     = {659--669},
