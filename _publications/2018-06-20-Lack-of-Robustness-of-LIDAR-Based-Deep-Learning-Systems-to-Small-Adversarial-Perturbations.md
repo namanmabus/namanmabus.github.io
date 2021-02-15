@@ -20,6 +20,7 @@ In this paper, we investigate the robustness of LIDAR-based autonomous navigatio
 
 {% include youtube_embed.html id="V-IlctFytu4" %}
 
+
 ### Bibtex
 
     @inproceedings{PatelCKK17,
