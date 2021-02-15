@@ -1,5 +1,5 @@
 ---
-title: "2019-12-02-Tightly-coupled-semantic-RGB-D-inertial-odometry-for-accurate-long-term-localization-and-mapping"
+title: "Tightly Coupled Semantic RGB-D Inertial Odometry for Accurate Long-Term Localization and Mapping"
 collection: publications
 permalink: /publication/2019-12-02-Tightly-coupled-semantic-RGB-D-inertial-odometry-for-accurate-long-term-localization-and-mapping
 excerpt: "Semantically enhanced feature matching and visual inertial bundle adjustment to improve the robustness of odometry especially in feature-sparse environments."
