@@ -7,7 +7,7 @@ date: 2017-06-20
 venue: "ISR 2018"
 venuetype: "conference"
 paperauthors: 'N. Patel, P. Krishnamurthy, F. Khorrami'
-thumbnail: "sem_slam_framework.gig"
+thumbnail: "sem_slam_framework.gif"
 ---
 
 Links: [ISR 2018 page](https://ieeexplore.ieee.org/document/8470619), [bibtex](#bibtex)
