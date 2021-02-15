@@ -7,7 +7,7 @@ date: 2020-02-14
 venue: "IEEE TDSC"
 venuetype: "journal"
 paperauthors: 'N. Patel, P. Krishnamurthy, H. Amrouch, J. Henkel, M. Shamouilian, R. Karri, F. Khorrami'
-thumbnail: "thermal_framework.png"
+thumbnail: "Thermal_framework.jpg"
 ---
 
 Links: [IEEE TDSC page](https://ieeexplore.ieee.org/abstract/document/8999554), [bibtex](#bibtex)
