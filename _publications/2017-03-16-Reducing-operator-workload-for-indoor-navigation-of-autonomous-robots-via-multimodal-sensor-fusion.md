@@ -12,11 +12,13 @@ thumbnail: "operator_workload_architecture_200.png"
 
 Links: [Companion HRI 2017 page](https://dl.acm.org/doi/10.1145/3029798.3038368), [Companion HRI 2017 pdf](https://dl.acm.org/doi/pdf/10.1145/3029798.3038368), [bibtex](#bibtex)
 
-![Modality fusion framework for operator assistance](/images/operator_workload_architecture.png)
-
 ### Abstract
 
 We present a novel framework for operator assistance in indoor navigation and map building wherein the ground vehicle learns to navigate by imitating the operator commands while training. Our framework reduces the workload on the human operator simplifying the process of human robot interaction. An end to end architecture is presented which takes inputs from camera and LIDAR and outputs the steering angle for the ground vehicle to navigate through an indoor environment. The presented framework includes static obstacle avoidance during navigation and map building. The architecture is made more reliable by an on-line mechanism in which the robot introspects its output and decides whether to rely on its output or transfer vehicle control to a human pilot. The end to end trained framework implicitly learns to avoid obstacles. We show that our framework works under various cases where other frameworks fail.
+
+### Modality fusion framework for operator assistance
+
+![Modality fusion framework for operator assistance](/images/operator_workload_architecture.png)
 
 ### Bibtex
     @inproceedings{PatelKFK17,
