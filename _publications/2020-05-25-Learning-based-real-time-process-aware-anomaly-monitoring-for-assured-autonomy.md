@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-05-25-Learning-based-real-time-process-aware-anomaly-monitoring-for-assured-autonomy
 excerpt: "An on-line monitoring framework for continuous real-time safety/security in learning-based control systems."
 date: 2020-05-25
-venue: ""
+venue: "IEEE T-IV"
 venuetype: "journal"
 paperauthors: 'N. Patel, A. N. Saridena, A. Choromanska, P. Krishnamurthy, F. Khorrami'
 thumbnail: "anomaly_monitor_framework.gif"
