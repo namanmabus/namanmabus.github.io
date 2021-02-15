@@ -1,5 +1,5 @@
 ---
-title: "Learning-Based Real-Time Process-Aware AnomalyMonitoring for Assured Autonomy"
+title: "Learning-Based Real-Time Process-Aware Anomaly Monitoring for Assured Autonomy"
 collection: publications
 permalink: /publication/2020-05-25-Learning-based-real-time-process-aware-anomaly-monitoring-for-assured-autonomy
 excerpt: "An on-line monitoring framework for continuous real-time safety/security in learning-based control systems."
