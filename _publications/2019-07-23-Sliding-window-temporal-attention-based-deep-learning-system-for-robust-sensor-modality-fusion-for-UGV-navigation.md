@@ -6,7 +6,7 @@ excerpt: "Temporal attention based neural network architecture for robotics task
 date: 2019-07-23
 venue: "IEEE Robotics and Automation Letters"
 venuetype: "journal"
-paperauthors: 'N. Patel, A. Choromanska, P. Krishnamurthy, F. Khorrami'
+paperauthors: 'H. Utku Unlu, N. Patel, P. Krishnamurthy, F. Khorrami'
 thumbnail: "modality_fusion_time.gif"
 ---
 
